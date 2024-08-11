@@ -1,0 +1,5 @@
+#code editors
+.vscode/
+
+#download data with script download.py
+notebooks/data
