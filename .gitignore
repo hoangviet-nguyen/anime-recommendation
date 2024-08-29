@@ -3,3 +3,4 @@
 
 #download data with script download.py
 notebooks/data
+notebooks/kaggle.json
